@@ -1,10 +1,10 @@
 # **Understanding Git -** 
-## **What it is and Why we need it?**
+# **What it is and Why we need it?**
 
+## **What it is Git?**
 **Git** is a distributed version control (DVCS) that helps developers manage and track changes in their projects. It’s especially useful when working with a team on the same code and also in case of switching back to some version that worked well earlier (that's called version control or versioning)
 
-
-### **Why do we need Git?**
+## **Why do we need Git?**
 
 1. **Version control**  
    Git keeps track of every change in the project you are working on. If something goes wrong, you can go back to a previous version.  
