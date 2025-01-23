@@ -6,21 +6,21 @@
 
 ### **Why Do We Need Git?**
 
-1. **Version Control**  
+1. _**Version Control**_  
    Git keeps track of every change in the project you are working on. If something goes wrong, you can go back to a previous version.  
    **Example**:
-   - You’re designing a website  
-     1. In Version 1, you create a basic homepage layout.  
-     2. In Version 2, you add an image slider.
-     3. In Version 3, you add a contact form, but it causes the slider to break.
-   Using Git, you can quickly go back to Version 2, where the slider was working perfectly, fix the issue, and then move forward.
+   - You’re designing a website:  
+     1. In Version 1, you created a basic homepage layout.  
+     2. In Version 2, you added an image slider.
+     3. In Version 3, you added a contact form, but it causes the slider to break.
+   Now using Git, you can quickly go back to Version 2, where the slider was working perfectly and fix the issue, and then move forward.
 
-3. **Collaboration**  
+2. **Collaboration**  
    Git allows multiple people to work on the same project without overwriting each other’s work.  
    **Example**:  
    - You and a teammate are editing the same file. Git will merge your changes and highlight any conflicts so you can fix them easily.
 
-4. **Work Offline**  
+3. **Work Offline**  
    With Git, each developer has a full copy of the project. You don’t need to be online to make changes.  
    **Example**:  
    - You can code while traveling, even without an internet connection. Later, you can upload your changes when you’re online.
