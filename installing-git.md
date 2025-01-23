@@ -17,3 +17,15 @@ git --version
   * Allow Git to decide on branch naming (skip if you’re unsure about Git branches).
   * Continue clicking "Next" until you reach the end.
   * Click "Finish" to complete the installation.
+
+### **3. Using Git Bash on Windows**
+* After installation:
+ * Open the Start menu and search for Git Bash.
+ * Launch it to start using Git.
+
+### 4. **Verify Git Installation**
+* To confirm Git is installed, type:
+ ``` python
+ git --version
+ ```
+* If a version appears, Git is successfully installed.
