@@ -39,7 +39,7 @@ Cool to go???
 Not yet? 🧐  
 No worries, stick with it, and you’ll be a Git pro before you know it!! 💯  
 
-### **In short, think of Git like this -**  
+## **In short, think of Git like this -**  
 Git is like the ultimate “Save and Load” feature in a video game:  
 - **Save**: Imagine you’re at a tough level in the game and you hit **Save** to record your progress (just like saving the current state of your code in Git).   
 - **Load**: Something goes wrong, and you lose the game (or mess up your code). No problem! You can return to a previous save point.  
