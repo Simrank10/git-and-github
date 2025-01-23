@@ -36,9 +36,9 @@
    *Example*:  
    - You accidentally delete a file. Git can help you restore it from the previous version, that's where version controlling works wonders, right?
 
-Cool to go??? 
-Not yet? 🧐
-No worries, stick with it, and you’ll be a Git pro before you know it!! 💯
+Cool to go???  
+Not yet? 🧐  
+No worries, stick with it, and you’ll be a Git pro before you know it!! 💯  
 
 ---
 
