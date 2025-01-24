@@ -42,4 +42,4 @@ No worries, stick with it, and you’ll be a Git pro before you know it!! 💯
 Git is like the ultimate “Save and Load” feature in a video game:  
 - **Save**: Imagine you’re at a tough level in the game and you hit **Save** to record your progress (just like saving the current state of your code in Git).   
 - **Load**: Something goes wrong, and you lose the game (or mess up your code). No problem! You can return to a previous save point.  
-- **Collaborate**: Think of multiplayer mode—everyone plays together, but each player can save their progress separately and then merge it all back into the main storyline when ready.
+- **Collaborate**: Think of multiplayer mode, where everyone plays together, but each player can save their progress separately and then merge it all back into the main storyline when ready.
