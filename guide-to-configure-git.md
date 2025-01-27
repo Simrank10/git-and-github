@@ -19,6 +19,7 @@ Before we get started, ensure Git is installed on your system. If you haven’t 
   Once Git is installed, the next step is to configure Git with your personal information. To do this, you'll need to set two things:
   1. Your name
   2. Your email
+  
   Then, run the following commands to configure your name and email:
   ```python
   git config --global user.name "Your Name"
@@ -39,11 +40,11 @@ Before we get started, ensure Git is installed on your system. If you haven’t 
 
   If no email is configured yet, it will return nothing.
 
-  * Step 4: Why the Email matters?
-    Your email address is used to associate commits with your user account on Git hosting platforms like GitHub, GitLab, or Bitbucket. Make sure the email address you use here matches the one you’ll use for these platforms. This helps link your commits to your online Git profile.
+* Step 4: Why the Email matters?
+  Your email address is used to associate commits with your user account on Git hosting platforms like GitHub, GitLab, or Bitbucket. Make sure the email address you use here matches the one you’ll use for these platforms. This helps link your commits to your online Git profile.
 
-  * Step 5: Understanding the ```--global``` flag
-    The ```--global``` flag ensures that the username and email you configure apply to all the repositories you create on this system. You don’t need to configure it for every new repository. These settings are applied globally by default.
+* Step 5: Understanding the ```--global``` flag
+  The ```--global``` flag ensures that the username and email you configure apply to all the repositories you create on this system. You don’t need to configure it for every new repository. These settings are applied globally by default.
 
 ## Conclusion
 Congratulations!  
