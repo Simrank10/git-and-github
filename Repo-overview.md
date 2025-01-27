@@ -10,7 +10,7 @@ A Git repository is a repository that is managed by Git, means Git will help in 
 ## Types of Repositories -
 
 * Local Repository: This is where your code is stored on your own machine. Changes made here are not visible to others unless shared through a remote repository.
-![Local repo]("C:\Users\simra\Downloads\github.png")
+![Local repo]("C:\Users\simra\git-and-github\github.png")
 
 * Remote Repository: A repository hosted on platforms like GitHub, GitLab, or Bitbucket. Remote repositories allow collaboration, where multiple people can work on the same project by accessing the repository on the cloud.
 
