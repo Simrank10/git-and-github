@@ -6,6 +6,7 @@ We’ll focus on configuring two main aspects:
 
 ## Prerequisites - 
 Before we get started, ensure Git is installed on your system. If you haven’t installed Git yet, follow the installation instructions for your operating system.
+Refer - installing-git.md
 
 ## Git configuration steps 
 * Step 1: Verify Git installation -
