@@ -1,8 +1,8 @@
 # Guide to configure Git
 In this section, we’ll walk through the simple steps of setting up Git after installation, so you can start using it for version control.  
-We’ll focus on configuring two main aspects
-1. your name and
-2. email
+We’ll focus on configuring two main aspects:
+1. Your name and
+2. Your email
 
 ## Prerequisites - 
 Before we get started, ensure Git is installed on your system. If you haven’t installed Git yet, follow the installation instructions for your operating system.
